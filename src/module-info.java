@@ -5,5 +5,5 @@
  * @author auvm
  *
  */
-module HolaMundo {
+module Libro {
 }
